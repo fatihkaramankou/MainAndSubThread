@@ -1,5 +1,5 @@
 SUNUCU İSTEK YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ
-170202122-Fatih KARAMAN-170202124- Enver ÇALÇOBAN
+170202122-Fatih KARAMAN
 
 Bilgisayar Mühendisliği Bölümü Kocaeli Üniversitesi
 f4t1hkrmn@gmail.com
